@@ -1,0 +1,8 @@
+Lebensmittel:
+- Eier
+- Brot
+- Fleisch
+
+Hygiene:
+- Shampoo
+- Klopapier
